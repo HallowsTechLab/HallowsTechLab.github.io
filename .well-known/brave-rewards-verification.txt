@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: hallowstechlab.github.io
+Token: 32b0cad37d92a794d62f64957b5a9dc765970b3e45d1a4a074dd9ec5050b37a6
