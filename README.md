@@ -1,4 +1,4 @@
-You have reaced Hallow's Tech Labs's root, not much to see here,
+You have reached Hallow's Tech Labs's root, not much to see here,
 however be sure to check out the links below
 
 
